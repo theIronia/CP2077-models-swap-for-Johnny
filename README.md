@@ -1,6 +1,5 @@
 # CP2077-models-swap-for-Johnny
 For my own sinful pleasure only
-Including some 2K max graphic screen recording for fellow console players
 
 # Current Variations
 1. cheap_male_joytoy_into_johnny_wounded
